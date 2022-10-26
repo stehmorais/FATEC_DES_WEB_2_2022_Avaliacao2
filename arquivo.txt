@@ -1,0 +1,5 @@
+<a href="cadastro.php">Voltar para cadastro</a><br>
+<h1>Dados dos usuario cadastrados: </h1><br>   
+Nome: Maria | Email: jubiscreuza@gmail.com | Senha: 86973
+Nome: Jerumio | Email: user@lavalite.org | Senha: 123
+Nome: Joaquim | Email: joaquimsilva@gmail.com | Senha: 1234
